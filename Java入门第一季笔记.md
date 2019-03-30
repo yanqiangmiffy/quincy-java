@@ -319,3 +319,16 @@ for 执行过程：
 3、 循环条件部分可以使用逻辑运算符组合的表达式，表示复杂判断条件，但一定注意运算的优先级，如：
 
 ![](http://img.mukewang.com/536c8e120001306804240071.jpg)
+
+#### 12.8 Java循环跳转语句之 break
+
+![](http://img.mukewang.com/536b36a80001ed4b05420273.jpg)
+
+#### 12.9 Java循环跳转语句之 continue
+
+continue 的作用是跳过循环体中剩余的语句执行下一次循环。
+
+例如，打印 1--10 之间所有的偶数，使用 continue 语句实现代码为：
+
+![](http://img.mukewang.com/536b50410001d1a706020200.jpg)
+
